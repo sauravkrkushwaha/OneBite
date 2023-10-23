@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongoURI = "";
+const mongoURI = ""; // Enter you database link
 
 const mongoDB = async () => {
   try {
